@@ -2,9 +2,9 @@
 
 The accuracy of my code after 10 times cross validation is 85.11% in the Iris data
 
-ANN.m : main algorithm for Arfitical Neural Network.
-Input : dataset and label.
-Output : network's structure: layer size and weight matrix.
+- ANN.m : main algorithm for Arfitical Neural Network.
+- Input : dataset and label.
+- Output : network's structure: layer size and weight matrix.
 
 All config about learning rate, stop condition, network architecture are in the first 15 lines.
 Overall the algorithm:
