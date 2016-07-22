@@ -1,0 +1,71 @@
+featureSelection
+
+featureS =
+
+     2
+
+	0.886
+
+featureS =
+
+     2     1
+
+	0.927
+
+featureS =
+
+     2     1     7
+
+	0.943
+
+featureS =
+
+     2     1     7     9
+
+	0.946
+
+featureS =
+
+     2     1     7     9    11
+
+	0.947
+
+featureS =
+
+     2     1     7     9    11     5
+
+	0.952
+
+featureS =
+
+     2     1     7     9    11     5     3
+
+	0.953
+
+featureS =
+
+     2     1     7     9    11     5     3     4
+
+	0.953
+
+featureS =
+
+     2     1     7     9    11     5     3     4    10
+
+	0.954
+
+featureS =
+
+     2     1     7     9    11     5     3     4    10     6
+
+	0.951
+
+featureS =
+
+     2     1     7     9    11     5     3     4    10     6     8
+
+	0.953
+
+ans =
+
+     2     1     7     9    11     5     3     4    10
