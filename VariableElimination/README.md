@@ -1,0 +1,1 @@
+The  Variable elimination Algorithm in Tom Mitchell / Machine Learning book. Quite simple but still useful.
